@@ -7,6 +7,7 @@
 - Listen for user events and update the DOM in response
 - Send data to an API using a PATCH request
 
+
 ## Introduction
 
 Welcome to BookLiker, where you can look at books and like them! (Hey, not all
